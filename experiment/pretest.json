@@ -9,7 +9,7 @@
         "c": "Time dependent elastic deformation at constant stress",
         "d": "Time dependent permanent deformation at a constant stress"
       },
-      "correctAnswer": "d",
+      "correctAnswer": "d"
     },
     {
       "question": "Creep usually occurs at temperatures of: (where Tm is the melting point of the material).",
@@ -19,7 +19,7 @@
         "c": "at Tm",
         "d": "> Tm"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "b"
     },
     {
       "question": "In the primary/transient stage, the creep rate:",
@@ -29,7 +29,7 @@
         "c": "Remains constant (non zero)",
         "d": "Decreases with time"
       },
-      "correctAnswer": "d",
+      "correctAnswer": "d"
     },
     {
       "question": "In the secondary /steady state, the creep rate:",
@@ -39,7 +39,7 @@
         "c": "Remains constant (non zero)",
         "d": "Decreases with time"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "c"
     },
     {
       "question": "In the tertiary state, the creep rate:",
@@ -49,7 +49,7 @@
         "c": "Remains constant (non zero)",
         "d": "Rapidly decreases with time"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "b"
     },
     
   ]
