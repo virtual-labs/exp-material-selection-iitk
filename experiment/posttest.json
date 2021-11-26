@@ -9,7 +9,7 @@
         "c": "Secondary Creep",
         "d": "Tertiary Creep"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "c"
     },
     {
       "question": "Which of the following DOES NOT affect creep rate:",
@@ -20,7 +20,7 @@
         "d": "Exposure time"
       },
       
-      "correctAnswer": "b",
+      "correctAnswer": "b"
       
     },
     {
@@ -31,7 +31,7 @@
         "c": "Decreases"
       },
       
-      "correctAnswer": "a",
+      "correctAnswer": "a"
       
     },
     {
@@ -42,7 +42,7 @@
         "c": "Increases"
       },
       
-      "correctAnswer": "a",
+      "correctAnswer": "a"
       
     },
     {
@@ -54,7 +54,7 @@
         "d": "Density of material-2 is higher than that of material-1"
       },
       
-      "correctAnswer": "a",
+      "correctAnswer": "a"
       
     }
   ]
