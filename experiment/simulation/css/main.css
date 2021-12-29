@@ -9,3 +9,9 @@ font-family: verdana;
 a{
 font-family: courier;}
 
+center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
