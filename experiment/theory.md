@@ -7,5 +7,5 @@ Platinum<br><br>
 Aluminum-Magnesium<br><br>
 <img src="images/nickel.jpg"><br><br>
 Nickel<br><br>
-<b>Conclusion</b><br><br>
+<b>Conclusions</b><br><br>
 <img src="images/micro3.jpg"><br>
