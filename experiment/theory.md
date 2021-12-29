@@ -5,7 +5,7 @@ Different materials have different properties and hence creep varies from materi
 Platinum<br><br>
 <img src="images/aluminium.jpg"><br>
 Aluminum-Magnesium<br><br>
-<img src="images/nickel.jpg"><br><br>
+<img src="images/nickel.jpg"><br>
 Nickel<br><br>
 <b>Conclusions</b><br><br>
 <img src="images/micro3.jpg"><br>
