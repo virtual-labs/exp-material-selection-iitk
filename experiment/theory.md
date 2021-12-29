@@ -1,1 +1,11 @@
-Different materials have different properties and hence creep varies from material to material. It occurs for tungsten, which has a very high melting point, at very high temperatures (1370 C) while for solder, lead etc. which have very low melting points it occurs at room temperature. Also the since the creep curve depends on various factors like obstacle density, strength etc. it varies widely for different types of materials like ceramics, polymers and metals. Higher the strength of a material more is the resistance it offers to creep deformation. For brittle materials which generally do not show a plastic region the creep deformation behavior will be much different from ductile materials. You may check out the links provided in the right column for a comparison of creep behavior in different type of metals
+Different materials have different properties and hence creep varies from material to material. It occurs for tungsten, which has a very high melting point, at very high temperatures (1370 C) while for solder, lead etc. which have very low melting points it occurs at room temperature. Also the since the creep curve depends on various factors like obstacle density, strength etc. it varies widely for different types of materials like ceramics, polymers and metals. Higher the strength of a material more is the resistance it offers to creep deformation. For brittle materials which generally do not show a plastic region the creep deformation behavior will be much different from ductile materials. You may check out the links provided in the right column for a comparison of creep behavior in different type of metals<br><br>
+
+<b>Results</b><br><br>
+<img src="images/platinum.jpg"><br>
+Platinum<br><br>
+<img src="images/aluminium.jpg"><br>
+Aluminum-Magnesium<br><br>
+<img src="images/nickel.jpg"><br>
+Nickel<br><br>
+<b>Conclusions</b><br><br>
+<img src="images/micro3.jpg"><br>
