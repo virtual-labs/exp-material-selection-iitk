@@ -15,4 +15,4 @@ Aluminum-Magnesium<br><br>
 <img src="images/nickel.jpg"><br>
 Nickel<br><br>
 <b>Conclusions</b><br><br>
-<img src="images/micro3.jpg"><br>
+<img src="images/micro3.jpg" width=900 heigth=600><br>
